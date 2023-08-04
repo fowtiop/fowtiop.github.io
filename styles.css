@@ -1,0 +1,10 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: gray;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 25%;
+}
